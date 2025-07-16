@@ -1,5 +1,5 @@
 # Input variable: S3 bucket name
 variable "bucket_name" {
-  description = "Eaton S3 Demo"
-  default     = "Eaton-S3-terraform"
+  description = "eaton s3 demo"
+  default     = "eaton-s3-terraform"
 }
